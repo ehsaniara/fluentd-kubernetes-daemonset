@@ -949,7 +949,7 @@ GEM
       tzinfo-data (~> 1.0)
       webrick (>= 1.4.2, < 1.8.0)
       yajl-ruby (~> 1.0)
-    google-protobuf (3.20.1)
+    google-protobuf (3.21.8)
     http (4.4.1)
       addressable (~> 2.3)
       http-cookie (~> 1.0)
